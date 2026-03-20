@@ -1,0 +1,12 @@
+# Old React build files
+assets/*.css
+assets/*.js
+assets/*.woff2
+
+# Reference files
+design-system-baradge.html
+index-new.html
+
+# OS
+.DS_Store
+Thumbs.db
